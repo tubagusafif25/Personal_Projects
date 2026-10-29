@@ -29,7 +29,7 @@ A simple console-based Student Management System built with C++ and MySQL. It su
 
 2.  **Compilation**:
 
-    - Ensure `libmysql.dll` is in the same directory as the executable.
+    - The MySQL client library is not included in this repo. Copy `libmysql.dll` from your MySQL Connector/C (or XAMPP) installation into this folder, next to the executable.
     - Compile using `g++`:
 
     ```bash

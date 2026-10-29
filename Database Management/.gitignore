@@ -9,3 +9,7 @@ students.csv
 # Ignore IDE settings
 .vscode/
 .idea/
+
+# MySQL client library (copy from your MySQL Connector/C install)
+libmysql.dll
+libmysql.a
